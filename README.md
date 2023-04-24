@@ -1,5 +1,7 @@
 # 👨‍🔬 André Pina
 
+<img align="right" alt="Coding" width="254" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTYzYmJiZjMwMjY2NzFlYmI2ZWM5MDk0NzgxNjcyZmM2ZTY0YWE4YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/Ll22OhMLAlVDb8UQWe/giphy.gif">
+
 **`(Junior) Fullstack Developer`**
 
 **Listen up, world!** Here's the deal: I'm a biochemist turned into a coding warrior.
