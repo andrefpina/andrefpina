@@ -45,7 +45,8 @@ If you are looking for a partner in crime, look no further - **contact me and le
 
 #
 
-### 📊 Stats (I am only just starting, check again in a year)
+### 📊 Stats
+#### Give me a break, I am just starting. Check again in a year 😉
 
 <img align="left" alt="André's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=andrefpina&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
